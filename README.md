@@ -13,9 +13,11 @@ Remplacez "username" et "template-repository" par le lien suivant : https://gith
 
 3. Allez dans le répertoire du modèle que vous venez de cloner avec la commande suivante :
 
-cd template-repository
+cd Template
 
-Remplacez "template-repository" par Template.
+Changez le nom Template par le nom souhaité avec la commande suivante : 
+
+mv Template nouveau_dossier
 
 4. Supprimez le dossier .git du modèle
 
