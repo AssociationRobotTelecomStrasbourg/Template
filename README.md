@@ -3,6 +3,14 @@ Voici le template permettant l'aide au suivi des projets de l'association RTS
 
 Comment utiliser ce template et publier ton projet sur Git ?
 
+0. Si vous n'en avez pas : créez une clé ssh : 
+
+utilisez la commande ssh-keygen
+
+la mettre sur cette arborescence: C:\users<yourusername>.ssh\id_rsa
+mdp useless (juste pour vous en local si un accès physique à la machine est possible)
+et  vous trouverez votre clef publique ici: C:\Users<nomUtilisateur>.ssh\id_rsa.pub
+
 1. Créez un nouveau dépôt Git vide sur GitHub. Notez le nom du dépôt.
 
 2. Clonez le dépôt du modèle sur votre ordinateur à l'aide de la commande git clone suivie de l'URL du dépôt du modèle. Par exemple :
