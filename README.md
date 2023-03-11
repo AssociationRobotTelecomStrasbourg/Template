@@ -1,4 +1,4 @@
 # Template
-Ceci est un template pour aider le suivi des projets de l'association RTS
+Voici le template permettant l'aide au suivi des projets de l'association RTS
 
-![logo_provisoire](https://user-images.githubusercontent.com/97883569/224488054-c6c69188-10c1-4ae3-aa33-35e798a83e49.png)
+![logo](https://user-images.githubusercontent.com/97883569/224491210-221ec3b2-5f8e-453a-960b-218e50e97f09.png)
