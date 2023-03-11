@@ -52,7 +52,7 @@ Remplacez https://github.com/username/new-repository.git par le lien de votre d√
 
 9. Pousser votre projet sur GitHub en utilisant la commande suivante :
 
-git push --set -upstream origin master
+git push --set-upstream origin master
 
 
 ![logo](https://user-images.githubusercontent.com/97883569/224491210-221ec3b2-5f8e-453a-960b-218e50e97f09.png)
