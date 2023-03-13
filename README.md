@@ -3,7 +3,10 @@ Voici le template permettant l'aide au suivi des projets de l'association RTS
 
 Comment utiliser ce template et publier ton projet sur Git ?
 
-0. Si vous n'en avez pas : créez une clé ssh : 
+0. Installer git sur votre pc 
+https://git-scm.com/downloads
+
+Si vous n'en avez pas : créez une clé ssh : 
 
 utiliser la commande ssh-keygen
 
