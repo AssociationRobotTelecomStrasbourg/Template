@@ -57,5 +57,6 @@ Remplacez https://github.com/username/new-repository.git par le lien de votre d�
 
 git push --set-upstream origin master
 
+Il est aussi possible de réaliser toutes ces actions via Github Desktop, son interface graphique est plus "user friendly" pour les débutants sur Git.
 
 ![logo](https://user-images.githubusercontent.com/97883569/224491210-221ec3b2-5f8e-453a-960b-218e50e97f09.png)
